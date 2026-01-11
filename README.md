@@ -10,6 +10,7 @@ The project emphasizes the use of Tailwind CSS utility-first classes to build at
 👉 https://your-live-demo-link-here
 
 📸 Screenshots
+
 1.Home
 <img width="1897" height="971" alt="image" src="https://github.com/user-attachments/assets/bdf46c30-c74f-4dda-8c84-e22ee37dc788" />
 <img width="1899" height="969" alt="image" src="https://github.com/user-attachments/assets/27094dfe-f42b-4919-af55-c280421b55c4" />
@@ -23,20 +24,24 @@ The project emphasizes the use of Tailwind CSS utility-first classes to build at
 
 
 🌐 Website Structure
-The Greenden website consists of a well-structured navigation bar and three main pages:
-🏠 Home Page
+The Greenden website consists of a well-structured navigation bar and three main pages: 
+
+Home Page:
 Welcomes users with an eye-catching hero section
 Introduces the Greenden brand and its purpose
 Includes call-to-action buttons and featured sections
-🌱 Products Page
+
+🌱 Products Page:
 Displays a collection of green-themed or plant-related products
 Uses a clean grid/card layout
 Includes hover effects and pricing information
-📞 Contact Page
+
+📞 Contact Page:
 Presents styled contact information
 Includes a neatly organized section for user interaction
 Designed with clarity and accessibility in mind
-📱 Responsive Design
+
+📱 Responsive Design:
 Fully responsive across mobile, tablet, and desktop devices
 Built using Tailwind CSS responsive breakpoints:
 sm: (small screens)
@@ -85,7 +90,8 @@ Greenden/
 ├── images/           
 └── README.md
 
-🚀 Outcome
+🚀 Outcome:
+
 By completing the Greenden project, you will have built a responsive, multi-page website using HTML and Tailwind CSS.
 This project helps you:
 Design modern, user-friendly layouts
